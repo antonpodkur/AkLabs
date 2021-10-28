@@ -1,0 +1,4 @@
+/home/anton/Documents/semester 5/ak/lab2/LaboratoryWorkN2/ninja_build/CMakeFiles/rebuild_cache.dir
+/home/anton/Documents/semester 5/ak/lab2/LaboratoryWorkN2/ninja_build/CMakeFiles/edit_cache.dir
+/home/anton/Documents/semester 5/ak/lab2/LaboratoryWorkN2/ninja_build/CMakeFiles/lw2.dir
+/home/anton/Documents/semester 5/ak/lab2/LaboratoryWorkN2/ninja_build/CMakeFiles/coin.dir
