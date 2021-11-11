@@ -1,0 +1,3 @@
+/home/anton/Documents/semester 5/ak/lab3/build/CMakeFiles/rebuild_cache.dir
+/home/anton/Documents/semester 5/ak/lab3/build/CMakeFiles/edit_cache.dir
+/home/anton/Documents/semester 5/ak/lab3/build/CMakeFiles/lw3.dir
